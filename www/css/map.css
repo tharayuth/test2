@@ -1,0 +1,7 @@
+#map_google,#map_toyota1,#map_toyota2 {
+  width: 100%;
+  min-width:100%;
+  height: 270px;
+}
+
+.map-container{position: relative;;}
